@@ -1,0 +1,1 @@
+int CalculateFilter(double tau, double clkFREQ, double *Gain, double *ZerosI, double *ZerosR, int *nZeros, double *PolesI, double *PolesR, int *nPoles);
